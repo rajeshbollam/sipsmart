@@ -24,7 +24,7 @@ The application comprises five main pages:
 - **Azure SQL Database**: Ensures robust user authentication, secure storage of signup details, and comprehensive management of user behavior data. The database also plays a critical role in the goal-tracking mechanism, facilitating data-driven insights.
 
 ## Demo
-Watch our [YouTube demo]([https://www.youtube.com/your-demo-link](https://youtu.be/w2QtJwZPw3g)) to see Project Sipsmart in action.
+Watch our [YouTube demo](https://youtu.be/w2QtJwZPw3g) to see Project Sipsmart in action.
 
 ## Screenshots
 Here are some screenshots of the Project Sipsmart application:
