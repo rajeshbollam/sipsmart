@@ -29,17 +29,14 @@ Watch our [YouTube demo](https://youtu.be/w2QtJwZPw3g) to see Project Sipsmart i
 ## Screenshots
 Here are some screenshots of the Project Sipsmart application:
 
-### SignUp Page
-![SignUp Page](<img width="189" alt="signup" src="https://github.com/rajeshbollam/sipsmart/assets/142535081/a5e92b34-8ccf-4755-af37-a51466cfb7ae">)
+<img width="122" alt="sign_log" src="https://github.com/rajeshbollam/sipsmart/assets/142535081/a740b26a-e037-44f7-bd56-066320f29ae4">
 
-### Real-time Alcoholic Behavior Monitoring
-![Real-time Monitoring](images/real-time-monitoring.png)
+<img width="125" alt="behavioural_analysis1" src="https://github.com/rajeshbollam/sipsmart/assets/142535081/9c498b38-bc63-470a-9eaa-1a342c7bcbaf">
 
-### Goal Tracking
-![Goal Tracking](images/goal-tracking.png)
+<img width="126" alt="dashboard1" src="https://github.com/rajeshbollam/sipsmart/assets/142535081/ad27a90f-bdd4-4c9e-ae3d-fa3e56888552">
 
-### Personalized Dashboard
-![Personalized Dashboard](images/dashboard.png)
+<img width="127" alt="goals1" src="https://github.com/rajeshbollam/sipsmart/assets/142535081/bc2c98f7-149c-4e99-8933-8a3109d8280f">
+
 
 
 ## Conclusion
