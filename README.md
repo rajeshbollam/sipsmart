@@ -23,5 +23,24 @@ The application comprises five main pages:
 ### Secure Data Management
 - **Azure SQL Database**: Ensures robust user authentication, secure storage of signup details, and comprehensive management of user behavior data. The database also plays a critical role in the goal-tracking mechanism, facilitating data-driven insights.
 
+## Demo
+Watch our [YouTube demo]([https://www.youtube.com/your-demo-link](https://youtu.be/w2QtJwZPw3g)) to see Project Sipsmart in action.
+
+## Screenshots
+Here are some screenshots of the Project Sipsmart application:
+
+### Login and SignUp Page
+![Login Page](images/login.png)
+
+### Real-time Alcoholic Behavior Monitoring
+![Real-time Monitoring](images/real-time-monitoring.png)
+
+### Goal Tracking
+![Goal Tracking](images/goal-tracking.png)
+
+### Personalized Dashboard
+![Personalized Dashboard](images/dashboard.png)
+
+
 ## Conclusion
 Project Sipsmart is more than a tool for tracking alcohol consumption; it is a holistic solution that combines secure authentication, behavior analysis, goal setting, and proactive location-based alerts. By embracing advanced technology and thoughtful design, the application aims to create a supportive environment for individuals seeking to positively change their relationship with alcohol.
