@@ -29,8 +29,8 @@ Watch our [YouTube demo](https://youtu.be/w2QtJwZPw3g) to see Project Sipsmart i
 ## Screenshots
 Here are some screenshots of the Project Sipsmart application:
 
-### Login and SignUp Page
-![Login Page](images/login.png)
+### SignUp Page
+![SignUp Page](<img width="189" alt="signup" src="https://github.com/rajeshbollam/sipsmart/assets/142535081/a5e92b34-8ccf-4755-af37-a51466cfb7ae">)
 
 ### Real-time Alcoholic Behavior Monitoring
 ![Real-time Monitoring](images/real-time-monitoring.png)
